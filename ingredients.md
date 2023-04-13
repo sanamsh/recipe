@@ -1,3 +1,4 @@
+Let's begin!
 ## Meatloaf Ingredients
 2 lbs ground beef, 85% or 90% lean
 
@@ -37,3 +38,5 @@
 ¼ tsp ground black pepper
 
 ¼ tsp salt
+
+Enjoy my recipe!
